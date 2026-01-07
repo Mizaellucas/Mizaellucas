@@ -11,6 +11,8 @@ e estou em busca da minha primeira oportunida com estagiário ou dev junior!
  ## Minhas Tecnologias 
  
  [JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg)
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
             
           
  
