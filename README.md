@@ -3,7 +3,7 @@
 🧔‍♂️ Ola, eu sou o Mizael Lucas!
 
 💻 Atualmente sou estudande do curso de Ànalise e Desenvolvimento de Sistemas 
-e estou em busca da minha primeira oportunidade como estagiário ou dev junior!
+e estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor junior!
  
 📫 [Acesse o meu Linekdin](https://www.linkedin.com/in/mizael-dev/)
 
