@@ -1,4 +1,4 @@
-## Sej Bem-Vindo ao meu Github! 😉
+## Seja Bem-Vindo ao meu Github! 😉
 
 🧔‍♂️ Ola, eu sou o Mizael Lucas!
 
