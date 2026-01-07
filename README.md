@@ -8,9 +8,10 @@ e estou em busca da minha primeira oportunida com estagiário ou dev junior!
 📫 [Acesse o meu Linekdin](www.linkedin.com/in/mizael-dev)
 
 
- ## Minhas Tecnologia
+ ## Minhas Tecnologias
  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"width="100px">
+          
           
           
  
